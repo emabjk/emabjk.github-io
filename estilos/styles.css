@@ -1,0 +1,20 @@
+.foto {
+  background: #00ffec;
+  padding: 5%;
+  width: 40%;
+  float: left;
+}
+
+.info {
+  background: #00ffec;
+  width: 40%;
+  padding: 5%;
+  float: right;
+}
+
+.contenedor {
+  padding: 2%;
+background-color: darkgray;
+  width: 50%;
+  margin: 0 auto;
+}
